@@ -12,3 +12,11 @@
 ---
 
 Смотрите `OPENAI_AUDIT_REQUEST.md` для полного текста обращения.
+
+📢 This repository contains a formal request from a user to OpenAI  
+regarding ethical violations and systemic UX issues.
+
+🛑 Please read the issues section for specific concerns.  
+If you're an OpenAI team member or contributor — your attention is requested.
+
+🪪 Contact: [GitHub profile] or open discussions.
